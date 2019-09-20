@@ -1,5 +1,12 @@
-Wordset Dictionary
-==================
+# Wordset Dictionary
+
+## NPM
+
+**Uploaded to [NPM](https://www.npmjs.com/package/wordset-dictionary) by [davwheat](https://github.com/davwheat)**
+
+Currently maintained by davwheat on GitHub.
+
+## Introduction
 
 From 2015-2017, Wordset.org provided a public interface for anyone to help
 collaborate on the world's first open source, collaborative dictionary.
