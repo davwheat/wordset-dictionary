@@ -1,0 +1,23 @@
+{
+  "name": "wordset-dictionary",
+  "version": "1.0.0",
+  "description": "A comprehensive open source English dictionary",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davwheat/wordset-dictionary.git"
+  },
+  "keywords": [
+    "dictionary",
+    "english"
+  ],
+  "author": "David Wheatley",
+  "license": "CC-BY-SA-4.0",
+  "bugs": {
+    "url": "https://github.com/davwheat/wordset-dictionary/issues"
+  },
+  "homepage": "https://github.com/davwheat/wordset-dictionary#readme"
+}
