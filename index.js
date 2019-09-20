@@ -25,7 +25,9 @@ import x from "./data/x.json";
 import y from "./data/y.json";
 import z from "./data/z.json";
 
-const all = {
+import misc from "./data/misc.json";
+
+const allWords = {
   ...a,
   ...b,
   ...c,
@@ -54,7 +56,8 @@ const all = {
 };
 
 export {
-  all,
+  allWords as AllWords,
+  misc as Misc,
   a,
   b,
   c,

@@ -1,6 +1,6 @@
 {
   "name": "wordset-dictionary",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A comprehensive open source English dictionary",
   "main": "index.js",
   "scripts": {
